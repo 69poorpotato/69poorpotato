@@ -31,7 +31,7 @@ look at these stats. just look at them! my finger is literally pointing right at
 
 <p align="center">
   <a href="https://github.com/69poorpotato">
-    <img src="https://github-readme-stats.vercel.app/api?username=69poorpotato&show_icons=true&theme=tokyonight&title_color=ff9e64&text_color=c0caf5&bg_color=1a1b26&hide_border=true&custom_title=POOR%20POTATOS%20ULTIMATE%20COMPILE%20SPREE&v=1" alt="Poor Potato's Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=69poorpotato&show_icons=true&theme=tokyonight&title_color=ff9e64&text_color=c0caf5&bg_color=1a1b26&hide_border=true&custom_title=POOR%20POTATOS%20ULTIMATE%20COMPILE%20SPREE&v=2" alt="Poor Potato's Stats" />
   </a>
   <a href="https://github.com/69poorpotato">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=69poorpotato&theme=tokyonight&hide_border=true&title_color=ff9e64&text_color=c0caf5&sideNums=ff9e64&sideLabels=c0caf5&ring=ff9e64&fire=ff9e64&currStreakNum=c0caf5&currStreakLabel=ff9e64&v=1" alt="Potato Streak" />
