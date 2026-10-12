@@ -6,11 +6,9 @@
 
 <br>
 
-### about me
-
-hey, i'm **poor potato** (also known as **damndev**). i'm a developer focused on building discord bots, automation scripts, and web apps.
-
-most of my projects involve backend logic, creating custom bots, and writing tools to automate everyday tasks with python and javascript.
+<div align="center">
+  <img src="./assets/about.svg" width="100%" alt="about me" />
+</div>
 
 <br>
 
@@ -20,18 +18,24 @@ most of my projects involve backend logic, creating custom bots, and writing too
 
 <br>
 
-### featured projects
+<div align="center">
+  <img src="./assets/projects.svg" width="100%" alt="featured projects" />
+</div>
 
-- **[damndev.xyz](https://damndev.xyz)** - personal website and portfolio built with Next.js and Three.js.
-- **[potatobot](https://github.com/69poorpotato/potatobot)** - custom Discord bot built with Python.
-- **[ai-image-detector-py](https://github.com/69poorpotato/ai-image-detector-py)** / **[ai-image-detector-js](https://github.com/69poorpotato/ai-image-detector-js)** - tools to detect and identify AI-generated images.
-- **[discordjs-bot-template](https://github.com/69poorpotato/discordjs-bot-template)** - clean boilerplate template for building Discord bots with JavaScript.
-- **[whatsapp-automated-messages-sender](https://github.com/69poorpotato/whatsapp-automated-messages-sender-js)** - scripts for automating and scheduling messages.
-- **[discord-all-indicators](https://github.com/69poorpotato/discord-all-indicators)** - lightweight script for inspecting Discord client status indicators.
+<details>
+  <summary><b>browse direct repository links</b></summary>
+  <br>
+  <ul>
+    <li><a href="https://damndev.xyz">damndev.xyz</a> — personal website &amp; portfolio built with Next.js and Three.js</li>
+    <li><a href="https://github.com/69poorpotato/potatobot">potatobot</a> — custom Discord bot built with Python</li>
+    <li><a href="https://github.com/69poorpotato/ai-image-detector-py">ai-image-detector-py</a> / <a href="https://github.com/69poorpotato/ai-image-detector-js">ai-image-detector-js</a> — tools to detect AI-generated images</li>
+    <li><a href="https://github.com/69poorpotato/discordjs-bot-template">discordjs-bot-template</a> — boilerplate template for Discord bots in JavaScript</li>
+    <li><a href="https://github.com/69poorpotato/whatsapp-automated-messages-sender-js">whatsapp-automated-messages-sender</a> — scripts for automating messages</li>
+    <li><a href="https://github.com/69poorpotato/discord-all-indicators">discord-all-indicators</a> — lightweight utility for Discord status indicators</li>
+  </ul>
+</details>
 
 <br>
-
-### github stats
 
 <div align="center">
   <img src="./assets/stats.svg" width="100%" alt="github telemetry &amp; stats" />
@@ -39,7 +43,14 @@ most of my projects involve backend logic, creating custom bots, and writing too
 
 <br>
 
-### links
+<div align="center">
+  <a href="https://damndev.xyz">
+    <img src="./assets/links.svg" width="100%" alt="links and dispatch" />
+  </a>
+</div>
 
-- website: [damndev.xyz](https://damndev.xyz)
-- github: [github.com/69poorpotato](https://github.com/69poorpotato)
+<br>
+
+<div align="center">
+  <a href="https://damndev.xyz">website: damndev.xyz</a> &nbsp;|&nbsp; <a href="https://github.com/69poorpotato">github: github.com/69poorpotato</a>
+</div>
