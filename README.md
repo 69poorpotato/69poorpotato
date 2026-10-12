@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://damndev.xyz">
-    <img src="./assets/banner.png" width="100%" alt="Poor Potato // DamnDev Systems" />
+    <img src="./assets/banner.png" width="100%" alt="Poor Potato Systems" />
   </a>
 </div>
 
@@ -34,12 +34,7 @@ most of my projects involve backend logic, creating custom bots, and writing too
 ### github stats
 
 <div align="center">
-  <a href="https://github.com/69poorpotato">
-    <img src="https://github-stats-extended.vercel.app/api?username=69poorpotato&amp;show_icons=true&amp;hide_border=true&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff&amp;bg_color=0d1117&amp;custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/69poorpotato">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69poorpotato&amp;layout=compact&amp;hide_border=true&amp;title_color=58a6ff&amp;text_color=8b949e&amp;bg_color=0d1117" alt="Top Languages" />
-  </a>
+  <img src="./assets/stats.svg" width="100%" alt="github telemetry &amp; stats" />
 </div>
 
 <br>
