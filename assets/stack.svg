@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 310" width="100%" height="310" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e14"/>
+      <stop offset="100%" stop-color="#080a0f"/>
+    </linearGradient>
+
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111622"/>
+      <stop offset="100%" stop-color="#0c0f17"/>
+    </linearGradient>
+
+    <linearGradient id="blueAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5865f2"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <style>
+      .mono {
+        font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+      }
+      .sans {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      }
+      .panel-border {
+        stroke: #1e293b;
+        stroke-width: 1;
+      }
+      .title-text {
+        font-weight: 700;
+        font-size: 11.5px;
+        letter-spacing: 1px;
+      }
+      .tech-title {
+        font-weight: 600;
+        font-size: 13px;
+        fill: #f1f5f9;
+      }
+      .tech-sub {
+        font-size: 11px;
+        fill: #64748b;
+      }
+      .tag {
+        font-size: 9.5px;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Base -->
+  <rect width="920" height="310" rx="10" fill="url(#cardBg)"/>
+  <rect x="0.5" y="0.5" width="919" height="309" rx="9.5" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Header Bar -->
+  <g class="mono" font-size="11" transform="translate(24, 24)">
+    <rect x="0" y="0" width="8" height="8" fill="#5865f2" rx="1.5"/>
+    <text x="16" y="8" fill="#94a3b8" font-weight="600" letter-spacing="1">SYSTEM RUNTIME &amp; INFRASTRUCTURE MATRIX</text>
+    <text x="872" y="8" text-anchor="end" fill="#475569" letter-spacing="0.5">TELEMETRY: VERIFIED</text>
+  </g>
+  <line x1="24" y1="38" x2="896" y2="38" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- COLUMN 1: RUNTIME CORES -->
+  <g transform="translate(24, 52)">
+    <rect width="280" height="238" rx="6" fill="url(#panelBg)" class="panel-border"/>
+    <rect x="0" y="0" width="280" height="2" fill="#5865f2" rx="1"/>
+    
+    <g class="mono" transform="translate(16, 22)">
+      <text x="0" y="0" fill="#818cf8" class="title-text">01 // CORE ENGINES</text>
+    </g>
+    
+    <!-- Item 1.1 -->
+    <g class="sans" transform="translate(16, 42)">
+      <text x="0" y="12" class="tech-title">TypeScript / Node.js</text>
+      <text x="0" y="27" class="mono tech-sub">Event-driven backends · Strict typing</text>
+    </g>
+    <line x1="16" y1="80" x2="264" y2="80" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 1.2 -->
+    <g class="sans" transform="translate(16, 92)">
+      <text x="0" y="12" class="tech-title">Python</text>
+      <text x="0" y="27" class="mono tech-sub">Automation daemons · Computer vision</text>
+    </g>
+    <line x1="16" y1="130" x2="264" y2="130" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 1.3 -->
+    <g class="sans" transform="translate(16, 142)">
+      <text x="0" y="12" class="tech-title">Bash / Shell</text>
+      <text x="0" y="27" class="mono tech-sub">POSIX automation · Linux bootstrapping</text>
+    </g>
+    <line x1="16" y1="180" x2="264" y2="180" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 1.4 -->
+    <g class="sans" transform="translate(16, 192)">
+      <text x="0" y="12" class="tech-title">REST &amp; WebSockets</text>
+      <text x="0" y="27" class="mono tech-sub">Real-time bi-directional streaming</text>
+    </g>
+  </g>
+
+  <!-- COLUMN 2: PLATFORMS & INTERNALS -->
+  <g transform="translate(320, 52)">
+    <rect width="280" height="238" rx="6" fill="url(#panelBg)" class="panel-border"/>
+    <rect x="0" y="0" width="280" height="2" fill="#38bdf8" rx="1"/>
+
+    <g class="mono" transform="translate(16, 22)">
+      <text x="0" y="0" fill="#38bdf8" class="title-text">02 // PLATFORM &amp; CLIENTS</text>
+    </g>
+
+    <!-- Item 2.1 -->
+    <g class="sans" transform="translate(16, 42)">
+      <text x="0" y="12" class="tech-title">Discord Gateway API</text>
+      <text x="0" y="27" class="mono tech-sub">Bot architectures · discord.js / py</text>
+    </g>
+    <line x1="16" y1="80" x2="264" y2="80" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 2.2 -->
+    <g class="sans" transform="translate(16, 92)">
+      <text x="0" y="12" class="tech-title">Vencord / Client Modding</text>
+      <text x="0" y="27" class="mono tech-sub">Discord internals · Webpack patching</text>
+    </g>
+    <line x1="16" y1="130" x2="264" y2="130" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 2.3 -->
+    <g class="sans" transform="translate(16, 142)">
+      <text x="0" y="12" class="tech-title">Next.js &amp; React</text>
+      <text x="0" y="27" class="mono tech-sub">Modern full-stack SSR web applications</text>
+    </g>
+    <line x1="16" y1="180" x2="264" y2="180" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 2.4 -->
+    <g class="sans" transform="translate(16, 192)">
+      <text x="0" y="12" class="tech-title">Three.js / WebGL</text>
+      <text x="0" y="27" class="mono tech-sub">Interactive 3D graphics &amp; spatial UI</text>
+    </g>
+  </g>
+
+  <!-- COLUMN 3: INFRASTRUCTURE & DISPATCH -->
+  <g transform="translate(616, 52)">
+    <rect width="280" height="238" rx="6" fill="url(#panelBg)" class="panel-border"/>
+    <rect x="0" y="0" width="280" height="2" fill="#34d399" rx="1"/>
+
+    <g class="mono" transform="translate(16, 22)">
+      <text x="0" y="0" fill="#34d399" class="title-text">03 // INFRA &amp; DEPLOYMENT</text>
+    </g>
+
+    <!-- Item 3.1 -->
+    <g class="sans" transform="translate(16, 42)">
+      <text x="0" y="12" class="tech-title">Ubuntu Linux</text>
+      <text x="0" y="27" class="mono tech-sub">Headless servers · systemd services</text>
+    </g>
+    <line x1="16" y1="80" x2="264" y2="80" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 3.2 -->
+    <g class="sans" transform="translate(16, 92)">
+      <text x="0" y="12" class="tech-title">Cloudflare Edge</text>
+      <text x="0" y="27" class="mono tech-sub">DNS management · SSL · Edge caching</text>
+    </g>
+    <line x1="16" y1="130" x2="264" y2="130" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 3.3 -->
+    <g class="sans" transform="translate(16, 142)">
+      <text x="0" y="12" class="tech-title">Pterodactyl Panel</text>
+      <text x="0" y="27" class="mono tech-sub">Daemon management · Isolated runtimes</text>
+    </g>
+    <line x1="16" y1="180" x2="264" y2="180" stroke="#1e293b" stroke-width="0.75"/>
+
+    <!-- Item 3.4 -->
+    <g class="sans" transform="translate(16, 192)">
+      <text x="0" y="12" class="tech-title">Automated Dispatch</text>
+      <text x="0" y="27" class="mono tech-sub">Multi-platform scripts &amp; bot daemons</text>
+    </g>
+  </g>
+</svg>

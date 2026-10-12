@@ -1,73 +1,96 @@
 <div align="center">
-  <img src="./242512219.png" width="300" alt="Nerd Cat Pointing">
-  <h1>🚨 WARNING: DAMNDEV DETECTED 🚨</h1>
-  <p><i>is this code powered by potato magic, or did he just forget to sleep again? we will never know.</i></p>
+  <a href="https://damndev.xyz">
+    <img src="./assets/header.svg" width="100%" alt="Poor Potato // DamnDev Systems" />
+  </a>
 </div>
 
-<br>
+<br />
 
-### 🗣️ *listen to me very carefully buddy*
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <h3>OPERATOR DOSSIER // CALLSIGN: DAMNDEV</h3>
+      <p>
+        Software architect and systems engineer building under the callsign <b>Poor Potato</b> (<b>DamnDev</b>). Specialized in low-latency Discord Gateway integrations, client-side runtime reverse engineering, headless automation daemons, and full-stack platforms with interactive 3D interfaces.
+      </p>
+      <p>
+        Architectural focus centers on resilient asynchronous I/O, lean dependency trees, and writing backend services that survive production edge cases without memory creep.
+      </p>
+      <p>
+        <code>NODE.JS</code> · <code>TYPESCRIPT</code> · <code>PYTHON</code> · <code>POSIX SHELL</code> · <code>UBUNTU</code> · <code>CLOUDFLARE</code>
+      </p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://github.com/69poorpotato">
+        <img src="./242512219.png" width="115" alt="Operator Token UID 242512219" />
+      </a>
+      <br />
+      <sub>
+        <b>TOKEN: 242512219</b><br />
+        <code>damndev.xyz</code>
+      </sub>
+    </td>
+  </tr>
+</table>
 
-yeah, i'm a pointing cartoon cat with glasses. deal with it. i'm just here to aggressively point at the absolute spaghetti (or genius, who knows) that this guy keeps pushing to main. you've wandered into the repository wasteland of **69poorpotato**. 
+<br />
 
-i took one look at his pfp over at [github.com/69poorpotato](https://github.com/69poorpotato) and honestly? almost choked on a hairball. what even *is* that? a potato that achieved sentience and decided to learn typescript? whatever it is, it's radiating some serious "i fix production bugs blindfolded" energy. proceed with caution.
+<div align="center">
+  <img src="./assets/console.svg" width="100%" alt="System Runtime Telemetry Console" />
+</div>
 
----
+<br />
 
-### 🥔 about this damn potato
+<div align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Architecture &amp; Systems Matrix" />
+</div>
 
-let's break down the "damn this dev is good" magic we got going on here. read 'em and weep:
+<br />
 
-- ☕ **overpriced coffee addict:** if his coffee didn't cost a small fortune and taste like liquid anxiety, he ain't compiling today. bro runs on straight caffeine and spite.
-- 🦉 **4 AM coding only:** sunlight? never heard of it. if the sun is out, the code is garbage. real dev magic only happens when you're sleep-deprived staring at a dark-themed IDE.
-- 🤖 **god-tier bots:** builds discord bots that question their own existence, reach nirvana, and then go back to replying "pong" to "ping". it's potato engineering at its peak.
-- 🔥 **DamnDev certified:** this isn't just regular dev stuff. it's fixing bugs on a 1993 mechanical keyboard while simultaneously roasting your frontend skills.
+### ACTIVE RUNTIMES &amp; REGISTRY
 
----
+| Target System | Domain &amp; Architecture | Core Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[`damndev.xyz`](https://damndev.xyz)** | Flagship portfolio, interactive spatial canvas, edge deployment | Next.js, React, Three.js, Node.js | `PRODUCTION` |
+| **[`potatobot`](https://github.com/69poorpotato/potatobot)** | Modular Discord bot runtime, gateway event lifecycle | Python, Discord Gateway API | `ACTIVE` |
+| **[`ai-image-detector`](https://github.com/69poorpotato/ai-image-detector-py)** | Synthetic visual artifact detection &amp; heuristics | Python, JavaScript | `OPEN SOURCE` |
+| **[`discordjs-bot-template`](https://github.com/69poorpotato/discordjs-bot-template)** | Boilerplate architecture for scalable bot microservices | JavaScript, discord.js | `MAINTAINED` |
+| **[`discord-all-indicators`](https://github.com/69poorpotato/discord-all-indicators)** | Real-time presence inspection &amp; client indicators | JavaScript, Web APIs | `ACTIVE` |
+| **[`pterodactyl-installer`](https://github.com/69poorpotato/pterodactyl-installer)** | Linux infrastructure deployment automation scripts | POSIX Shell, Ubuntu/Debian | `MAINTAINED` |
+| **[`automated-dispatch`](https://github.com/69poorpotato/whatsapp-automated-messages-sender-js)** | Headless messaging daemons &amp; session queue dispatch | JavaScript, Python | `DEPLOYS` |
 
-### 📊 the ultimate compile spree
+<br />
 
-look at these stats. just look at them! my finger is literally pointing right at them! 
+### UPSTREAM CONTRIBUTIONS &amp; INTERNALS
 
-<p align="center">
+- **[Vendicated/Vencord](https://github.com/Vendicated/Vencord)** — Core Discord client modification. Engineered voice channel status character limitation handling and client-side patch validations.
+- **[discordjs/discord.js](https://github.com/discordjs/discord.js)** — Standard Node.js gateway library. Contributed fixes to thread channel protocols and client permission evaluation flows.
+- **Client Modding Ecosystem** — Active inspection and module patching across BetterDiscord, Vencord, and custom Webpack modules.
+
+<br />
+
+### ACTIVITY &amp; DISPATCH TELEMETRY
+
+<div align="center">
   <a href="https://github.com/69poorpotato">
-    <img src="https://github-stats-extended.vercel.app/api?username=69poorpotato&show_icons=true&theme=tokyonight&title_color=ff9e64&text_color=c0caf5&bg_color=1a1b26&hide_border=true&custom_title=POOR%20POTATOS%20ULTIMATE%20COMPILE%20SPREE&v=2" alt="Poor Potato's Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=69poorpotato&amp;show_icons=true&amp;hide_border=true&amp;title_color=5865f2&amp;text_color=94a3b8&amp;icon_color=38bdf8&amp;bg_color=0b0e14&amp;custom_title=GITHUB%20TELEMETRY%20INDEX" alt="GitHub Telemetry Index" />
   </a>
   <a href="https://github.com/69poorpotato">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=69poorpotato&theme=tokyonight&hide_border=true&title_color=ff9e64&text_color=c0caf5&sideNums=ff9e64&sideLabels=c0caf5&ring=ff9e64&fire=ff9e64&currStreakNum=c0caf5&currStreakLabel=ff9e64&v=1" alt="Potato Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69poorpotato&amp;layout=compact&amp;hide_border=true&amp;title_color=5865f2&amp;text_color=94a3b8&amp;bg_color=0b0e14" alt="Language Distribution" />
   </a>
-</p>
+</div>
 
----
+<br />
 
-### 🗡️ tech arsenal 
+### COMMS &amp; ENDPOINTS
 
-i audited his search history so you don't have to (don't ask how). here's what this potato uses to torment the internet:
+```
+[ENDPOINT]  https://damndev.xyz
+[COMMUNITY] https://discord.gg/NuKPJdREaV
+[SYSTEM]    Ubuntu 24.04 LTS (Headless) // Cloudflare Edge
+[IDENTITY]  Poor Potato // DamnDev // UID: 242512219
+```
 
-#### 🧙‍♂️ languages he commands (or they command him, honestly unclear)
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-</p>
-
-#### 🛠️ tools he torments daily
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py" />
-</p>
-
----
-
-<details>
-  <summary><b>👀 CLICK HERE FOR THE FUNKYTOWN FOOTER (TOP SECRET) 👀</b></summary>
-  <br>
-  <i>listen here pal. you want the truth? the actual formula for edible antigravity is hidden in line 42 of an unnamed python script here. also, he fully intends to automate the entire universe with a massive <code>while True:</code> loop running on a raspberry pi duct-taped to his router. don't tell the feds. *points aggressively and vanishes*</i>
-</details>
+<div align="center">
+  <sub><code>DAMNDEV // ZERO BLOAT // PURE RUNTIME // 2026</code></sub>
+</div>
