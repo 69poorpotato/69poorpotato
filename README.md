@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./242512219.png" width="120" alt="poor potato">
-  <br><br>
   <a href="https://damndev.xyz">
-    <img src="./assets/header.svg" width="100%" alt="poor potato / damndev">
+    <img src="./assets/banner.png" width="100%" alt="Poor Potato // DamnDev Systems" />
   </a>
 </div>
 
@@ -17,7 +15,7 @@ most of my projects involve backend logic, creating custom bots, and writing too
 <br>
 
 <div align="center">
-  <img src="./assets/stack.svg" width="100%" alt="skills and tools">
+  <img src="./assets/stack.svg" width="100%" alt="skills and tools" />
 </div>
 
 <br>
